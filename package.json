@@ -27,7 +27,7 @@
     "async": "^1.3.0",
     "google-auth-library": "^0.9.6",
     "lodash": "^3.7.0",
-    "request": "^2.69.0",
+    "request": "2.65.0",
     "xml2js": "~0.4.0"
   },
   "devDependencies": {
